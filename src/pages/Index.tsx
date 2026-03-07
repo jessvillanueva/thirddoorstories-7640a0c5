@@ -12,7 +12,7 @@ const Index = () => {
       <main className="container-content py-12 md:py-20 flex flex-col gap-16 md:gap-20">
         {/* Hero */}
         <section className="flex flex-col gap-6 animate-fade-in">
-          <span className="overline text-primary">Emergent Ventures Proof Hub</span>
+          
           <h1>
             These paths exist. They're just invisible unless you stumble onto them.
           </h1>
