@@ -14,7 +14,6 @@ const Index = () => {
       <main className="container-content py-12 md:py-20 flex flex-col gap-16 md:gap-20">
         {/* Hero */}
         <section className="flex flex-col gap-6 animate-fade-in">
-          
           <h1>
             These paths exist. They're just invisible unless you stumble onto them.
           </h1>
@@ -47,10 +46,15 @@ const Index = () => {
         {/* Social Proof */}
         <section className="animate-fade-in" style={{ animationDelay: "0.3s" }}>
           <div className="card-surface p-6 md:p-8">
-            <span className="overline text-foreground/[0.35] mb-4 block">Backed by</span>
-            <div className="flex items-center gap-8">
-              <img src={logo1517} alt="1517 Fund" className="h-8 object-contain" />
-              <img src={logoResidency} alt="The Residency" className="h-10 object-contain invert" />
+            <span className="overline text-foreground/[0.35] mb-6 block">Backed by</span>
+            <div className="flex items-center justify-center gap-8">
+              <img src={logo1517} alt="1517 Fund" className="h-10 object-contain" />
+              <img
+                src={logoResidency}
+                alt="The Residency"
+                className="h-12 object-contain"
+                style={{ filter: "invert(1)" }}
+              />
             </div>
           </div>
         </section>
@@ -61,14 +65,14 @@ const Index = () => {
           <div className="grid md:grid-cols-2 gap-6">
             <EssayCard
               readTime="8 min read"
-              title="Why the Third Door Matters More Than Ever"
-              thesis="The traditional paths are overcrowded. The unconventional ones are hiding in plain sight."
+              title="Why Therapy Expansion Will Never Catch Gen Z in Time"
+              thesis="The mental health crisis isn't just clinical. It's structural. Not enough therapists. Too many kids in crisis. And 85% who need help can't imagine self-identifying as patients. The case for why microgrants, residencies, and hacker houses implicitly connect to mental health infrastructure in disguise. They help give purpose, peers, and accountability before the breakdown happens."
               href="/essays/why-third-door"
             />
             <EssayCard
               readTime="5 min read"
-              title="Building in Public as a Documentary Filmmaker"
-              thesis="What happens when you treat a creative project like an open-source repo."
+              title="The Origins of the Underworld: How the Builder Scene Actually Started"
+              thesis="buildspace. 1517. Emergent Ventures. Y Combinator. The Thiel Fellowship's chaotic early years. The weird little rooms, Discord servers, and SF apartments where this whole ecosystem started, and why most of it stays invisible unless you're already in."
               href="/essays/building-in-public"
             />
           </div>
