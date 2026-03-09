@@ -7,7 +7,7 @@ const About = () => {
   return (
     <div className="min-h-screen bg-background">
       <SiteHeader />
-      <main className="container-content py-12 md:py-20 max-w-[720px]">
+      <main className="container-content py-12 md:py-20 max-w-[720px] animate-fade-in">
 
         {/* Hero */}
         <span className="overline text-foreground/[0.35]">
