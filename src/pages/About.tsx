@@ -1,5 +1,7 @@
 import SiteHeader from "@/components/SiteHeader";
 import SiteFooter from "@/components/SiteFooter";
+import logo1517 from "@/assets/1517-logo.png";
+import logoResidency from "@/assets/residency-logo.png";
 
 const About = () => {
   return (
