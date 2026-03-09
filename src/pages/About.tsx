@@ -107,7 +107,7 @@ const About = () => {
               <li>a $1,000 Medici grant from 1517 Fund</li>
               <li>a Top 20 finish in The Residency&apos;s Delta Chapter II as the only filmmaker in the cohort</li>
               <li>buildspace s5 with a trip to San Francisco for demo day</li>
-              <li>swung by Socratica nodes, V2, Cansbridge, and other builder and founder events locally with heating potential</li>
+              <li>swung by Socratica nodes, V2, Cansbridge, and other builder communities quietly producing people and projects that deserved way more attention</li>
             </ul>
             <p>
               The first unsolicited person who paid for the Patreon told me exactly what she
