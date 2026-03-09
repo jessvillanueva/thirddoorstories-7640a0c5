@@ -50,7 +50,7 @@ const Support = () => {
                 <li>• Early access to new episodes</li>
                 <li>• Full uncut interviews (not just the 10-min cut)</li>
                 <li>• Case-study breakdowns with exact timelines, financial breakdowns, and "how I got my first client/grant" steps</li>
-                <li>• Direct access to me and a community of like-minded people</li>
+                <li>• Direct access to me and a community of like-minded thinkers</li>
                 <li>• The live-updated map of 25+ microgrants, 10+ residencies, 20+ hacker houses, demo days, and fellowships</li>
               </ul>
               <p className="body-small text-foreground/[0.45] mt-auto">

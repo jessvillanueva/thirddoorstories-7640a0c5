@@ -226,7 +226,7 @@ const About = () => {
             <p>
               🗺️ <span className="text-foreground font-medium">Deeper layer:</span> Join the Patreon for full uncut
               interviews, case-study breakdowns (timelines, financials, first-client tactics), direct
-              access to me and a community of like-minded people, and the live-updated map of 25+
+              access to me and a community of like-minded thinkers, and the live-updated map of 25+
               microgrants, 10+ residencies, and 20+ hacker houses.
             </p>
           </div>
