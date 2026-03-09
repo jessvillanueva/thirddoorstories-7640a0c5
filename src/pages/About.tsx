@@ -136,14 +136,14 @@ const About = () => {
               peer conversation than a polished lecture because they are.
             </p>
             <p>
-              Most education tools act like cookbooks. They give you recipes and frameworks. Third
-              Door Stories is closer to a cooking show for alternative lives. You watch someone
-              actually cook an unconventional path in real time, see the mistakes, and understand
-              what &quot;golden brown&quot; looks like before you ever try it yourself.
+              Most education tools act like cookbooks. They hand someone recipes and frameworks. Third
+              Door Stories is closer to a cooking show for alternative lives. Someone watches a person
+              actually cook an unconventional path in real time, sees the mistakes, and understands
+              what &quot;golden brown&quot; looks like before ever trying it themselves.
             </p>
             <p>
-              AI tools can tell you how to start a company. College counselors can help package a
-              project. What they can&apos;t show you is what it feels like to be 17 or 22, taking a
+              AI tools can tell someone how to start a company. College counselors can help package a
+              project. What they can&apos;t show is what it feels like to be 17 or 22, taking a
               real leap, dealing with self doubt, and shipping anyway. That emotional terrain is
               what Third Door Stories documents.
             </p>
