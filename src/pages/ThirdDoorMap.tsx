@@ -47,10 +47,10 @@ const ThirdDoorMap = () => {
           <span className="overline text-accent">Third Door Map</span>
           <h1>The Paths Most People Don't Know Exist</h1>
           <p className="body-base text-foreground/[0.65] max-w-[640px]">
-            A curated directory of microgrants, residencies, hacker houses, fellowships, and
-            programs that quietly make Third Doors real. These are the places that change
-            trajectories — most guidance counselors have never heard of them.
-          </p>
+             A curated directory of microgrants, residencies, hacker houses, fellowships, and
+             programs that quietly make Third Doors real. These are the places that change
+             trajectories and most guidance counselors have never heard of them.
+           </p>
         </section>
 
         <div className="flex gap-2 flex-wrap mb-8">
