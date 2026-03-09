@@ -27,7 +27,7 @@ const Index = () => {
           <VideoCard
             label="Pilot Episode"
             caption="Cold email → shoot → edit → launch in 24 days."
-            videoId=""
+            videoId="sf-SUwdZN3A"
             type="youtube"
           />
         </section>

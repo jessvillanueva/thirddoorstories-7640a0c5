@@ -13,7 +13,7 @@ const EpisodeDetail = () => {
       <SiteHeader />
       <main className="container-content py-12 md:py-20 flex flex-col gap-16 md:gap-20">
         {/* Main episode video */}
-        <VideoCard label="Full Episode" caption="" videoId="" type="youtube" />
+        <VideoCard label="Full Episode" caption="" videoId="sf-SUwdZN3A" type="youtube" />
 
         {/* Episode meta + logline */}
         <section className="flex flex-col gap-4 max-w-[720px]">
