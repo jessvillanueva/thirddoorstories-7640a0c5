@@ -172,6 +172,29 @@ const About = () => {
             </p>
           </div>
         </section>
+
+        {/* Backed by */}
+        <section className="mt-16 mb-8 flex flex-col gap-8">
+          <h2>Backed By</h2>
+          <div className="flex items-center justify-center gap-8">
+            <img src={logo1517} alt="1517 Fund" className="h-10 object-contain" />
+            <img src={logoResidency} alt="The Residency" className="h-12 object-contain" />
+          </div>
+          <div className="grid sm:grid-cols-2 gap-6">
+            <div className="card-surface p-6 flex flex-col gap-3">
+              <span className="overline text-primary">1517's Medici Grant</span>
+              <p className="body-small text-foreground/[0.65]">
+                A small, fast microgrant from 1517 Fund designed to help young builders ship their next concrete step — no strings attached, no pitch deck required. Third Door Stories received a $1,000 Medici grant to fund early production.
+              </p>
+            </div>
+            <div className="card-surface p-6 flex flex-col gap-3">
+              <span className="overline text-primary">The Residency — Delta Chapter II Top 20</span>
+              <p className="body-small text-foreground/[0.65]">
+                The Residency is a builder residency for early-stage founders and creators shipping ambitious projects. Third Door Stories was selected as a Top 20 finalist in Delta Chapter II — the only filmmaker in the cohort — where the pilot episode was shot and launched in 24 days.
+              </p>
+            </div>
+          </div>
+        </section>
       </main>
       <SiteFooter />
     </div>
