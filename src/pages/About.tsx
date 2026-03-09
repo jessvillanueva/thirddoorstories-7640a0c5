@@ -19,6 +19,18 @@ const About = () => {
 
         <div className="flex flex-col gap-6 body-base text-foreground/[0.65]">
           <p>
+            The name comes from{" "}
+            <a href="https://alexbanayan.com/book/" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline">
+              <span className="italic">The Third Door</span>
+            </a>{" "}
+            by Alex Banayan. His analogy: life is like a nightclub. There&apos;s the First Door,
+            the main entrance where 99% of people wait in line. The Second Door, the VIP
+            entrance for billionaires and celebrities. But there is always a Third Door. It&apos;s
+            the entrance where someone has to jump out of line, run down the alley, bang on the
+            door a hundred times, crack open the window, sneak through the kitchen. There&apos;s
+            always a way.
+          </p>
+          <p>
             Third Door Stories is a small documentary studio and essay lab mapping the hidden
             builder world for young people stuck between{" "}
             <span className="italic">&quot;get a degree or fail&quot;</span> and{" "}
