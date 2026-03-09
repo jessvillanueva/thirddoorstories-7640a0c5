@@ -89,13 +89,20 @@ const About = () => {
               path to independent building in social good and documentary filmmaking.
             </p>
             <p>
-              Along the way I earned my way into the builder world one step at a time: a $1,000
-              Medici grant from 1517 Fund, a Top 20 finish in The Residency&apos;s Delta Chapter II as
-              the only filmmaker in the cohort, buildspace s5 with a trip to San Francisco for demo
-              day, and time spent at Socratica nodes, V2, Cansbridge, and others. The first person
-              who paid for the Patreon told me exactly what she valued: &quot;the part about the hacker
-              houses, residencies, and microgrants.&quot; That was the moment documenting this world
-              felt necessary.
+              Along the way I earned my way into the builder world one step at a time:
+            </p>
+            <ul className="flex flex-col gap-2 list-disc list-inside">
+              <li>a $1,000 Medici grant from 1517 Fund</li>
+              <li>a Top 20 finish in The Residency&apos;s Delta Chapter II as the only filmmaker in the cohort</li>
+              <li>buildspace s5 with a trip to San Francisco for demo day</li>
+              <li>swung by Socratica nodes, V2, Cansbridge, and other builder and founder events locally with heating potential</li>
+            </ul>
+            <p>
+              The first unsolicited person who paid for the Patreon told me exactly what she
+              valued: &quot;the part about the hacker houses, residencies, and microgrants.&quot;
+            </p>
+            <p>
+              That was the moment documenting this world felt necessary over a one-off film.
             </p>
           </div>
         </section>
