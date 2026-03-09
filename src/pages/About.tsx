@@ -33,20 +33,29 @@ const About = () => {
           <h2>The Information Gap No One Talks About</h2>
           <div className="flex flex-col gap-6 body-base text-foreground/[0.65]">
             <p>
-              When I was 15 or 16, I was choosing between three paths. Door 1: a $52K business
-              degree leading to consulting, a comfortable career, and a scripted life. Door 2:
-              elite connections and inherited access. Door 3: actually learning how to help people,
-              independently, through building and freelancing from scratch.
+              When I was 15 or 16, I was choosing between three paths.
             </p>
+            <ul className="flex flex-col gap-2 list-disc list-inside">
+              <li>Door 1: a $52K business degree leading to consulting, a comfortable career, and a life on script.</li>
+              <li>Door 2: elite connections and inherited access.</li>
+              <li>Door 3: actually learning how to help people, independently, through building and freelancing from scratch.</li>
+            </ul>
             <p>
               No one named Door 3 for me. I stumbled into it through persistence, curiosity, and
-              seizing the whispers I kept overhearing in the right communities. By the time I chose
-              it at 16, I understood something most guidance counselors and college advisors never
-              explain: the real infrastructure for unconventional paths already exists. It just stays
-              invisible unless someone happens to find the right person, Discord server, or dinner table.
+              seizing the whispers I kept overhearing in the right communities.
             </p>
             <p>
-              Most people never find it. That&apos;s the gap Third Door Stories exists to close.
+              By the time I chose it at 16, I saw something I haven&apos;t heard from any guidance
+              counselor or college advisor: the real infrastructure for taking risks during
+              someone&apos;s 20s already exists. It just stays invisible unless someone happens to find
+              the right person, Discord server, or dinner table.
+            </p>
+            <p>
+              Most people never find it and I haven&apos;t seen anyone fully piece it together beyond
+              forums and spreadsheets.
+            </p>
+            <p>
+              That&apos;s the gap Third Door Stories exists to close.
             </p>
           </div>
         </section>
