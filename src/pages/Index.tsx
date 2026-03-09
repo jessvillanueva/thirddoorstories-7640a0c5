@@ -18,8 +18,7 @@ const Index = () => {
             These paths exist. They're just invisible unless you stumble onto them.
           </h1>
           <p className="body-base text-foreground/[0.65] max-w-[640px]">
-            Third Door Stories is an independent documentary series following unconventional builders — 
-            the ones who found a way in through the side entrance. This is our proof of work.
+            Third Door Stories explores the hidden builder world with the communities, grants, and residencies helping young people find a real path beyond college or hustle culture.
           </p>
         </section>
 
