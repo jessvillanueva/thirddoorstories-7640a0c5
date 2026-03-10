@@ -87,10 +87,8 @@ const Support = () => {
           </div>
         </section>
 
-        {/* Email Capture */}
-        <section className="mb-16">
-          <EmailCaptureBar />
-        </section>
+
+
 
         {/* Paid Tiers */}
         <section className="mb-8">
