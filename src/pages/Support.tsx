@@ -88,8 +88,6 @@ const Support = () => {
         </section>
 
 
-
-
         {/* Paid Tiers */}
         <section className="mb-8">
           <h2 className="mb-6">Paid membership tiers</h2>
