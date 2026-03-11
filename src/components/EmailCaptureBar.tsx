@@ -56,6 +56,14 @@ const EmailCaptureBar = () => {
           {error && <p className="text-destructive text-sm">{error}</p>}
         </form>
       )}
+      <a
+        href="https://thirddoorstories.beehiiv.com/"
+        target="_blank"
+        rel="noopener noreferrer"
+        className="inline-block mt-3 body-small text-foreground/[0.45] hover:text-primary transition-colors"
+      >
+        Read past issues →
+      </a>
     </div>
   );
 };
