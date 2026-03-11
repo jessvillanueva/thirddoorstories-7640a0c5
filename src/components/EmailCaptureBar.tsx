@@ -34,8 +34,9 @@ const EmailCaptureBar = () => {
 
   return (
     <div className="card-surface p-6 md:p-8">
+      <h3 className="text-lg font-bold text-foreground mb-1">Unlatched — The Newsletter</h3>
       <p className="body-base text-foreground/[0.65] mb-4">
-        Get early access to new episodes and essays. No spam.
+        Investigating the hidden paths young builders take when college and hustle culture aren't always the answer. No spam.
       </p>
       {submitted ? (
         <p className="text-primary body-base font-medium">You're in. We'll be in touch.</p>
